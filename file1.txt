@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 world
+=======
+world1
+>>>>>>> feature1
